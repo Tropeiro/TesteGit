@@ -1,2 +1,3 @@
 Hello, world!
-I am Tropeiro.
+I am Tropeiro Onezorg.
+Vamos aprender fundamentos do git?
