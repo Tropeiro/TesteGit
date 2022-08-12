@@ -1,0 +1,1 @@
+Esse exemplo agora funciona com merge, mais um pra ficar claro
